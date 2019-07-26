@@ -7,7 +7,7 @@ What Is GitFlow?
 
 Illustration:
 
-![alt text](git-model@2x.PNG)
+![alt text](/lessons/git-model@2x.png)
 
 
 ## Key Benefits
@@ -32,21 +32,21 @@ We are going to cover those important parts and a summarize lesson about git mod
 
 **1. Git Flow 101**
 
-[Orientation about git flow workflow](lessons/git-flow-101.md)
+[Orientation about git flow workflow](/lessons/git-flow-101.md)
 [Diagram](lessons/git-flow-101-diagram.md)
 
 **2. Git Flow 102**
 
-[Producing our first release candidate.](lessons/git-flow-102.md)
+[Producing our first release candidate.](/lessons/git-flow-102.md)
 [Diagram](lessons/git-flow-102-diagram.md)
 
 **3. Git Flow 103**  
 
-[Git Merging Conflict.](lessongs/git-flow-103.md)
+[Git Merging Conflict.](/lessons/git-flow-103.md)
 No diagram
 
 **4. Git Flow 104** 
-[Git Stash Operation and Git Reset.](lessongs/git-flow-104.md)
+[Git Stash Operation and Git Reset.](/lessons/git-flow-104.md)
 No diagram
 
 Goodluck!
