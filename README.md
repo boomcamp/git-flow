@@ -49,6 +49,8 @@ No diagram
 [Git Stash Operation and Git Reset.](/lessons/git-flow-104.md)
 No diagram
 
-Goodluck!
+### Resources
 
-*Talent wins games, but teamwork and intelligence wins championships.*
+[Use Semantic Versioning and Give Your Version Numbers Meaning](https://embeddedartistry.com/blog/2017/12/7/start-using-semantic-versioning-to-give-your-version-numbers-meaning).
+
+[SemServer](https://semver.org/).
