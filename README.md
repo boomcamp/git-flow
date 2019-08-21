@@ -56,3 +56,5 @@ No diagram
 [SemServer](https://semver.org/).
 
 [Cheatsheet](https://devhints.io/semver).
+
+[A simple guide to semantic versioning](https://www.jvandemo.com/a-simple-guide-to-semantic-versioning/)
