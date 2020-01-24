@@ -7,8 +7,12 @@ What Is GitFlow?
 
 Illustration:
 
-![alt text](/lessons/git-model@2x.png)
+![alt text](/references/git-model@2x.png)
 
+
+# Short Demo
+
+<TODO: Video>
 
 ## Key Benefits
 Parallel Development
@@ -26,30 +30,24 @@ As new development is completed, it gets merged back into the develop branch, wh
 GitFlow supports hotfix branches - branches made from a tagged release. You can use these to make an emergency change, safe in the knowledge that the hotfix will only contain your emergency fix. There’s no risk that you’ll accidentally merge in new development at the same time.
 
 
-# Lessons coverage:
+### Boom.Camp external resources
 
-We are going to cover those important parts and a summarize lesson about git modeling.
+- [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
-**1. Git Flow 101**
 
-[Orientation about git flow workflow](/lessons/git-flow-101.md)
-[Diagram](lessons/git-flow-101-diagram.md)
+<object data="references/presentations/Git Branch Modeling.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="references/presentations/Git Branch Modeling.pdf">
+        <p><a href="references/presentations/Git Branch Modeling.pdf">[Git Branch Modeling.pdf]</a>.</p>
+    </embed>
+</object>
 
-**2. Git Flow 102**
 
-[Producing our first release candidate.](/lessons/git-flow-102.md)
-[Diagram](lessons/git-flow-102-diagram.md)
+<object data="references/presentations/Git Branch Modeling.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="references/presentations/GIT COMMANDS.pdf">
+        <p><a href="references/presentations/GIT COMMANDS.pdf">[GIT COMMANDS.pdf]</a>.</p>
+    </embed>
+</object>
 
-**3. Git Flow 103**  
-
-[Git Merging Conflict.](/lessons/git-flow-103.md)
-No diagram
-
-**4. Git Flow 104** 
-[Git Stash Operation and Git Reset.](/lessons/git-flow-104.md)
-No diagram
-
-### Resources
 
 [Use Semantic Versioning and Give Your Version Numbers Meaning](https://embeddedartistry.com/blog/2017/12/7/start-using-semantic-versioning-to-give-your-version-numbers-meaning).
 
