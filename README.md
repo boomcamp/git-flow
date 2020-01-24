@@ -29,10 +29,7 @@ As new development is completed, it gets merged back into the develop branch, wh
 ### Support For Emergency Fixes
 GitFlow supports hotfix branches - branches made from a tagged release. You can use these to make an emergency change, safe in the knowledge that the hotfix will only contain your emergency fix. There’s no risk that you’ll accidentally merge in new development at the same time.
 
-
-### Boom.Camp external resources
-
-[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+### Boom.Camp Presentations
 
 <object data="references/presentations/Git Branch Modeling.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="references/presentations/Git Branch Modeling.pdf">
@@ -46,6 +43,10 @@ GitFlow supports hotfix branches - branches made from a tagged release. You can 
         <p><a href="references/presentations/GIT COMMANDS.pdf">[GIT COMMANDS.pdf]</a>.</p>
     </embed>
 </object>
+
+### Boom.Camp external resources
+
+[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 [Use Semantic Versioning and Give Your Version Numbers Meaning](https://embeddedartistry.com/blog/2017/12/7/start-using-semantic-versioning-to-give-your-version-numbers-meaning).
 
