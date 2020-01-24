@@ -49,7 +49,7 @@ GitFlow supports hotfix branches - branches made from a tagged release. You can 
 
 [Use Semantic Versioning and Give Your Version Numbers Meaning](https://embeddedartistry.com/blog/2017/12/7/start-using-semantic-versioning-to-give-your-version-numbers-meaning).
 
-[SemServer](https://semver.org/).
+[Semantic Versioning](https://semver.org/).
 
 [Cheatsheet](https://devhints.io/semver).
 
