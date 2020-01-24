@@ -12,7 +12,9 @@ Illustration:
 
 # Short Demo
 
-<TODO: Video>
+[Git flow demonstration](https://github.com/boomcamp/git-flow-demo)
+
+
 
 ## Key Benefits
 Parallel Development
