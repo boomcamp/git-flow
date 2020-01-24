@@ -1,4 +1,4 @@
-# Git Flow 
+# Git Branch Modeling 
 
 What Is GitFlow?
 
@@ -37,22 +37,22 @@ GitFlow supports hotfix branches - branches made from a tagged release. You can 
 
 <object data="references/presentations/Git Branch Modeling.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="references/presentations/Git Branch Modeling.pdf">
-        <p><a href="references/presentations/Git Branch Modeling.pdf">[Git Branch Modeling.pdf]</a>.</p>
+        <p><a href="references/presentations/Git Branch Modeling.pdf">- [Git Branch Modeling.pdf]</a>.</p>
     </embed>
 </object>
 
 
 <object data="references/presentations/Git Branch Modeling.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="references/presentations/GIT COMMANDS.pdf">
-        <p><a href="references/presentations/GIT COMMANDS.pdf">[GIT COMMANDS.pdf]</a>.</p>
+        <p><a href="references/presentations/GIT COMMANDS.pdf">- [GIT COMMANDS.pdf]</a>.</p>
     </embed>
 </object>
 
 
-[Use Semantic Versioning and Give Your Version Numbers Meaning](https://embeddedartistry.com/blog/2017/12/7/start-using-semantic-versioning-to-give-your-version-numbers-meaning).
+- [Use Semantic Versioning and Give Your Version Numbers Meaning](https://embeddedartistry.com/blog/2017/12/7/start-using-semantic-versioning-to-give-your-version-numbers-meaning).
 
-[SemServer](https://semver.org/).
+- [SemServer](https://semver.org/).
 
-[Cheatsheet](https://devhints.io/semver).
+- [Cheatsheet](https://devhints.io/semver).
 
-[A simple guide to semantic versioning](https://www.jvandemo.com/a-simple-guide-to-semantic-versioning/)
+- [A simple guide to semantic versioning](https://www.jvandemo.com/a-simple-guide-to-semantic-versioning/)
