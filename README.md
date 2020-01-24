@@ -35,16 +35,16 @@ GitFlow supports hotfix branches - branches made from a tagged release. You can 
 - [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
 
 
-<object data="references/presentations/Git Branch Modeling.pdf" type="application/pdf" width="700px" height="700px">
+- <object data="references/presentations/Git Branch Modeling.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="references/presentations/Git Branch Modeling.pdf">
-        <p><a href="references/presentations/Git Branch Modeling.pdf">- [Git Branch Modeling.pdf]</a>.</p>
+        <p><a href="references/presentations/Git Branch Modeling.pdf">[Git Branch Modeling.pdf]</a>.</p>
     </embed>
 </object>
 
 
-<object data="references/presentations/Git Branch Modeling.pdf" type="application/pdf" width="700px" height="700px">
+- <object data="references/presentations/Git Branch Modeling.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="references/presentations/GIT COMMANDS.pdf">
-        <p><a href="references/presentations/GIT COMMANDS.pdf">- [GIT COMMANDS.pdf]</a>.</p>
+        <p><a href="references/presentations/GIT COMMANDS.pdf">[GIT COMMANDS.pdf]</a>.</p>
     </embed>
 </object>
 
